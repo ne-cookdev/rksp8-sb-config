@@ -1,6 +1,2 @@
 server:
   port: 8082
-
-clients:
-  rooms-service:
-    url: http://rooms-service:8081
