@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: bookings-service
-
 server:
   port: 8082
 

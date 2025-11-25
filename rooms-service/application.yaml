@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: rooms-service
-
 server:
   port: 8081
